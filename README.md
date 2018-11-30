@@ -1,11 +1,11 @@
 # CMPE 273 Demo 
 
 #### Team Alpha Group Member Names
-Yang Chen
-Huy Vo
-Chungchen Ran
-Kevin Ta
-Chunchen Lin
+- Yang Chen
+- Huy Vo
+- Chungchen Ran
+- Kevin Ta
+- Chunchen Lin
 
 #### Notes 
 ```
