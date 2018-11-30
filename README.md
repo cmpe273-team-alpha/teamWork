@@ -1,5 +1,12 @@
 # CMPE 273 Demo 
 
+#### Team Alpha Group Member Names
+Yang Chen
+Huy Vo
+Chungchen Ran
+Kevin Ta
+Chunchen Lin
+
 #### Notes 
 ```
 NewSQL is a class of modern relational database management systems that seek to provide the same scalable performance of NoSQL systems for 
